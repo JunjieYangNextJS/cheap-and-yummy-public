@@ -1,4 +1,4 @@
-This repository contains the public code for my cheap-and-yummmy web application. The original codebase is kept private for security reasons.
+This repository contains the public code for my cheap-and-yummy web application. The original codebase is kept private for security reasons.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
